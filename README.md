@@ -1,6 +1,14 @@
 ## CORONA TRACKER
 
+
+![GitHub contributors](https://img.shields.io/github/contributors-anon/himanshu2406/Corona-Tracker?style=for-the-badge)
+![ESLint](https://img.shields.io/github/workflow/status/himanshu2406/Corona-Tracker/Eslint?label=ESLint&style=for-the-badge)
+![Tests](https://img.shields.io/github/workflow/status/himanshu2406/Corona-Tracker/Unittest?label=Tests&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/himanshu2406/Corona-Tracker?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/himanshu2406/Corona-Tracker?style=for-the-badge)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/himanshu2406/Corona-Tracker?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/himanshu2406/Corona-Tracker?style=for-the-badge)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/himanshu2406/Corona-Tracker?style=for-the-badge)
 
 You can use the [editor on GitHub](https://github.com/himanshu2406/Corona-Tracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
