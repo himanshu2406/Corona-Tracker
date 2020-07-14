@@ -7,7 +7,7 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/himanshu2406/Corona-Tracker?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/himanshu2406/Corona-Tracker?style=for-the-badge)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/himanshu2406/Corona-Tracker?style=for-the-badge)
-![Github total lines](https://tokei.rs/b1/github/himanshu2406/Corona-Tracker)
+![Github Total lines](https://tokei.rs/b1/github/himanshu2406/Corona-Tracker)
 
 # Welcome to Corona Tracker - Discord bot - The biggest bot for live COVID 19 Ai visuals and more !
 
