@@ -14,6 +14,7 @@
 |:------------|:---------|:-------|
 | The Discord bot provides with live COVID-19 Visuals, Analysis, Ai Predictions, Correlations ,Interactive live maps of progression and much more ! <br><br> We are constantly adding new features to the discord bot, this project is maintained by Anondoser but it has been made Open Source so that everyone can contribute ! | [![Discord server](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F2x%2Fdiscord-logo.png&f=1&nofb=1)](https://discord.gg/TY5QwaV) | [![BuyMeACoffee](https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg)](https://www.buymeacoffee.com/anondoser/shop) |
 
+**Join** our Discord bot now ! [here](https://discord.gg/TY5QwaV)
 
 You can use the [editor on GitHub](https://github.com/himanshu2406/Corona-Tracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
