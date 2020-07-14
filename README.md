@@ -16,38 +16,18 @@
 
 **Join** our Discord bot now ! [here](https://discord.gg/TY5QwaV)
 
-You can use the [editor on GitHub](https://github.com/himanshu2406/Corona-Tracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Installation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project
+1. Fork and clone the git repository
+2. In the new folder you will find a `example.env` file, duplicate it and rename it to `.env` only.
+3. in the new `.env` file, change `DISCORD_TOKEN` to to your bot token
+4. Cd to the directory and `pip install -r requirements.txt`
+5. (Optional) Use Cron jobs to run `nb_og.py` for every 24h to create the resources required
+8. Run `bot.py`  
+9. You can now see the bot connected to the server
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/himanshu2406/Corona-Tracker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Discord: Firelogger#7717
