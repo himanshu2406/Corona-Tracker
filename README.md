@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## CORONA TRACKER
+
+![GitHub top language](https://img.shields.io/github/languages/top/himanshu2406/Corona-Tracker?style=for-the-badge)
 
 You can use the [editor on GitHub](https://github.com/himanshu2406/Corona-Tracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
